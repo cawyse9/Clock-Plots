@@ -8,11 +8,11 @@ Wrist-worn sensors allow physical activity, sleep and circadian rhythms to be mo
 ##  Methods
 <img align="right" width=170 src="https://user-images.githubusercontent.com/29300100/213663142-b2baf0d0-99ff-445d-a0d6-471402e52b37.png">
               
-                    
-The One Year of Actigraphy (OYA) project is exploring new methods of sleep/circadian data analysis. The main target is to search for predictive algorithms from consecutive wrist actigraphy recordings of a free-living single subject using a MotionWatch8 (CamNtech Ltd) system on the non-dominant wrist for an entire year. The single subject was a 62 year-old male who wore the device between June 2016 and June 2017.
-Daily physical activity was monitored using a triaxial accelerometer (Geneactiv, UK) worn on the wrist for one year.
+The One Year of Actigraphy (OYA) project data are curated by the National Sleep Research Resource, an NHLBI-supported repository for sharing sleep and circadian data.                 
+The data are wrist actigraphy recordings of a 62 year old male using a MotionWatch8 (CamNtech Ltd) system on the non-dominant wrist between June 2016 and June 2017.
+
 $~$
-Data are measurements of gravity (g) in three axes (x, y, z) sampled at 100Hz.  The Euclidean norm (square root of the sum of the squares) of these measurements was used to summarise the information at each time point and the data were binned to 1 minute or 1 hour epochs.  These data are taken to approximate human activity over 24h.  The R package ggplot2 was used to contruct polar plots of activity against time with epoch represented by tiles or segments.  The level of activity was shown by a colour gradient using the viridis package. Axes and tick mark labels were customised to improve the aesthetic quality of the plot.  This allowed the changes in daily locomotor activity and variations in circadian rhythms over the 7 days of recording to be visualized.
+Data are activity units derviced from the Motionwatch8 sampled at 1Hz. The R package ggplot2 was used to construct an actigram of activity against time with the level of activity was shown by a diverging colour gradient using the viridis package. 
 
 Citation and acknowledgement
 When using this dataset, please cite the following:
