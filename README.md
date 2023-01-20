@@ -6,7 +6,7 @@ Wrist-worn sensors allow physical activity, sleep and circadian rhythms to be mo
 </details>
  
 ##  Methods
-<img align="right" width=170 src="https://user-images.githubusercontent.com/29300100/213663142-b2baf0d0-99ff-445d-a0d6-471402e52b37.png")>
+<img align="right" width=170 src="https://user-images.githubusercontent.com/29300100/213663142-b2baf0d0-99ff-445d-a0d6-471402e52b37.png">
               
                     
 The One Year of Actigraphy (OYA) project is exploring new methods of sleep/circadian data analysis. The main target is to search for predictive algorithms from consecutive wrist actigraphy recordings of a free-living single subject using a MotionWatch8 (CamNtech Ltd) system on the non-dominant wrist for an entire year. The single subject was a 62 year-old male who wore the device between June 2016 and June 2017.
