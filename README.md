@@ -14,8 +14,7 @@ The data are wrist actigraphy recordings of a 62 year old male using a MotionWat
 $~$
 Data are activity units derviced from the Motionwatch8 sampled at 1Hz. The R package ggplot2 was used to construct an actigram of activity against time with the level of activity was shown by a diverging colour gradient using the viridis package. 
 
-Citation and acknowledgement
-When using this dataset, please cite the following:
+## Citations and Acknowledgement
 
 Zhang GQ, Cui L, Mueller R, Tao S, Kim M, Rueschman M, Mariani S, Mobley D, Redline S. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc. 2018 Oct 1;25(10):1351-1358. doi: 10.1093/jamia/ocy064. PMID: 29860441; PMCID: PMC6188513.
 
@@ -25,11 +24,10 @@ delucca, gianluigi. 2021. "Motionwatch8 Wrist Actimetry Data Analysis: From Ambu
 
 Gianluigi G. Delucca. 2022. “ Motionwatch8 Wrist Activity and Light Analysis: from ambulatory recording toward real life monitoring.” OSF Preprints. June 24. doi.org/10.31219/osf.io/cdqxh.
 
-Please include the following text in the Acknowledgements:
 
 The National Sleep Research Resource was supported by the National Heart, Lung, and Blood Institute (R24 HL114473, 75N92019R002).
 
-The R-code is here:  
+## R-code  
 
 [Processing and cleaning accelerometery raw data](/analysis/Spirals_data_cleaning.R)  
 
