@@ -12,7 +12,11 @@ Wrist-worn sensors allow physical activity, sleep and circadian rhythms to be mo
 All plots made using ggplot and actigraphy data at 1 minute intervals.
 
 ## Plots
-# Sleep Clock
+### Sleep Clock
+
+## Code
+[Sleep Bubbles](/Code/bedtime_plot.R)  
+
 
 Sleep clocks show the times of sleep and wake times using a 24h clock face.  The spread of the clock "hands" illustrates the variation and the mean is labelled, and shown as a single, darker colored hand.  
 <img align="right" width=170 src="https://user-images.githubusercontent.com/29300100/214536508-6ed2b0b6-ac03-4094-9003-837cfd7b63c8.png">
