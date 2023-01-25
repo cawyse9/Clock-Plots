@@ -12,7 +12,7 @@ Wrist-worn sensors allow physical activity, sleep and circadian rhythms to be mo
 All plots made using ggplot and actigraphy data at 1 minute intervals.
 
 ## Plots
-### Sleep Clock
+[Sleep Bubbles Plot](Images/Picture4.jpg)
 
 ## Code
 [Sleep Bubbles](/Code/bedtime_plot.R)  
