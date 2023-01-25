@@ -1,9 +1,13 @@
-# Sleep-Bubbles:  Using color and shape to visualise sleep duration and variation
+# Using color and shapes to visualise circadian timing
 
 ## Background</summary>
-Wrist-worn sensors allow physical activity, sleep and circadian rhythms to be monitored unobtrusively over long time periods, and can reveal patterns that cannot be detected in datasets collected over days. 
+Wrist-worn sensors allow physical activity, sleep and circadian rhythms to be monitored unobtrusively over long time periods, and can reveal patterns that cannot be detected in datasets collected over days. These plots aim to convey information on the timing of sleep and wake time using colors and shapes.
 
 </details>
+ Sleep Bubbles
+ Sleep Clocks
+ 
+ 
  
 ##  Methods
 <img align="right" width=170 src="https://user-images.githubusercontent.com/29300100/213663142-b2baf0d0-99ff-445d-a0d6-471402e52b37.png">
