@@ -6,10 +6,11 @@ Wrist-worn sensors allow physical activity, sleep and circadian rhythms to be mo
 </details>
  Sleep Bubbles
  Sleep Clocks
+ Sleep Waves
  
  
 ##  Methods
-All plots made using ggplot and actigraphy data at 1 minute intervals.
+All plots made using ggplot, R and actigraphy data at 1 minute intervals.
 
 ## Sleep Bubbles
 [Plot](Images/clock.png)
@@ -19,7 +20,17 @@ All plots made using ggplot and actigraphy data at 1 minute intervals.
 Sleep clocks show the times of sleep and wake times using a 24h clock face.  The spread of the clock "hands" illustrates the variation and the mean is labelled, and shown as a single, darker colored hand.  
 <img align="right" width=170 src="Images/clock.png">
 [Code for sleep clock](/code/sleep_clocks.R)  
-[Sample Plotting a sleep spiral in segments or tiles](/analysis/Spirals_plotting.R)          
+[Sample Plotting a sleep spiral in segments or tiles](/analysis/Spirals_plotting.R)        
+
+
+## Sleep Waves
+[Plot](Images/wave.png)
+[Code](Code/waveplot.R)  
+
+
+Sleep waves show the times of sleep and wake times using a colored continuous actigram.  The periodicity over days is represented by a sine wave.  
+<img align="right" width=170 src="Images/wave.png">
+[Code for sleep wave](/code/sleep_clocks.R)  
               
 The One Year of Actigraphy (OYA) project data are curated by the National Sleep Research Resource, an NHLBI-supported repository for sharing sleep and circadian data. The data are wrist actigraphy recordings of a 62 year old male using a MotionWatch8 (CamNtech Ltd) system on the non-dominant wrist between June 2016 and June 2017.  Data are activity units derviced from the Motionwatch8 sampled at 1Hz. The R package ggplot2 was used to construct an actigram of activity against time with the level of activity was shown by a diverging colour gradient using the viridis package. 
 
