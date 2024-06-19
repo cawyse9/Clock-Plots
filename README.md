@@ -12,55 +12,31 @@ All plots made using ggplot, R and actigraphy data at 1 minute intervals. The On
 
 ## Sleep Bubbles  
 Sleep bubbles show longitudinal variation in bed and wake times and whether sleep duration falls within a 6-8 hour interval, by color (grey is outside) and by location outside the bars.  
-<img align="right" width=170 src="Images/picture4.png">  
+<img align="center" width=900 src="Images/Picture4.jpg">  
 [Plot](Images/clock.png)  
 [Code](Code/bedtime_plot.R)  
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;
 &nbsp;  
 &nbsp;  
 ## Sleep Clocks  
 Sleep clocks show the times of sleep and wake times using a 24h clock face.  The spread of the clock "hands" illustrates the variation and the mean is labelled, and shown as a single, darker colored hand.  
-<img align="right" width=170 src="Images/clock.png">  
+<img align="center" width=400 src="Images/clock.png">  
 
 [Code for sleep clock](/code/sleep_clocks.R)  
 [Sample Plot /image/sleep_spiral.png)  
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;
 &nbsp;  
 &nbsp;  
-&nbsp;  
+  
 ## Sleep Waves  
 Sleep waves show the times of sleep and wake times using a colored continuous actigram.  The periodicity over days is represented by a sine wave.  
-<img align="right" width=170 src="Images/wave.png">  
+<img align="center" width=500 src="Images/wave.png">  
 [Code for sleep Waves](/code/sleep_waves.R)  
-[Sample Plot](/image/wave.png)  
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 
-&nbsp;
-&nbsp;
+&nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;
+&nbsp;  
+&nbsp;  
+
 ## Citations and Acknowledgement
 Zhang GQ, Cui L, Mueller R, Tao S, Kim M, Rueschman M, Mariani S, Mobley D, Redline S. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc. 2018 Oct 1;25(10):1351-1358. doi: 10.1093/jamia/ocy064. PMID: 29860441; PMCID: PMC6188513.
 
