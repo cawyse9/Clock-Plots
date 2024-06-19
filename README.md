@@ -23,14 +23,15 @@ Sleep clocks show the times of sleep and wake times using a 24h clock face.  The
 <img align="center" width=400 src="Images/clock.png">  
 
 [Code for sleep clock](/code/sleep_clocks.R)  
-[Sample Plot /image/sleep_spiral.png)  
+[Plot](Images/Picture4.jpg)   
 &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;
 &nbsp;  
 &nbsp;  
   
 ## Sleep Waves  
 Sleep waves show the times of sleep and wake times using a colored continuous actigram.  The periodicity over days is represented by a sine wave.  
-<img align="center" width=500 src="Images/wave.png">  
+<img align="center" width=400 src="Images/wave.png">   
+[Plot](Images/wave1.png)  
 [Code for sleep Waves](/code/sleep_waves.R)  
 
 &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;
